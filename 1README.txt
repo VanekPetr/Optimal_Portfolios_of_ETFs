@@ -14,3 +14,5 @@ PortBoot.gms		& Creates optimal portfolio from the whole universe of ETFs using 
 PortMC.gms 		& Creates optimal portfolio from the whole universe of ETFs using Monte Carlo method 	& GAMS
 PortBoot_Sub.gm		& Creates optimal portfolio from a subset of ETFs using Bootstrapping method		& GAMS
 PortMC_Sub.gms 		& Creates optimal portfolio from a subset of ETFs using Monte Carlo method		& GAMS
+ETFs_Stat.py      & Statistical analysis, performances of our optimal portfolios of ETFs        & Python
+MutualFunds_Stat.py & Statistical analysis, performances of Danish mutual funds and comparison with our portfolios & Python
